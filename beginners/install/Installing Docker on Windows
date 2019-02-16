@@ -1,0 +1,11 @@
+Installing Docker on Windows
+	Docker is a computer program that performs operating-system-level virtualization, also known as “containerization”. Docker is used to run software packages called “containers”. Containers are isolated from one another and bundle their own application, they can communicate with each other through well-defined channels.
+Follow the steps to Install:
+-	Make sure you have Windows 10 Pro installed on your machine.
+-	Go to the site https://www.docker.com/ 
+-	Click on Get Started to start the process of making an account and downloading Docker for Windows
+-	Click on Windows and next it asks to login to download. Create a account which is free.
+-	Now click on Get Docker. Download will start, and it will take some time to download. After downloading double click on the setup file to get started with the installation.
+-	It will download some packages in the initial stage and then it will start unpacking and installation.  
+-	After sometime it will finish the installation and you will get the docker running in the tray. Now you are good to go.
+
